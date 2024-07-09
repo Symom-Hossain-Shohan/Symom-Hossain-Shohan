@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Symom Hossain Shohan</h1>
 <h3 align="center">CS Undergrad || Specialist @Codeforces || NLP || Multimodal AI</h3>
-<𝒊𝒎𝒈 𝒂𝒍𝒊𝒈𝒏 = "𝒓𝒊𝒈𝒉𝒕" 𝒂𝒍𝒕 = "𝒄𝒐𝒅𝒊𝒏𝒈" 𝒘𝒊𝒅𝒕𝒉 = "𝟒𝟎𝟎" 𝒔𝒓𝒄 = "𝒉𝒕𝒕𝒑𝒔://𝒖𝒔𝒆𝒓-𝒊𝒎𝒂𝒈𝒆𝒔.𝒈𝒊𝒕𝒉𝒖𝒃𝒖𝒔𝒆𝒓𝒄𝒐𝒏𝒕𝒆𝒏𝒕.𝒄𝒐𝒎/𝟓𝟓𝟑𝟖𝟗𝟐𝟕𝟔/𝟏𝟒𝟎𝟖𝟔𝟔𝟒𝟖𝟓-𝟖𝒇𝒃𝟏𝒄𝟖𝟕𝟔-𝟗𝒂𝟖𝒇-𝟒𝒅𝟔𝒂-𝟗𝟖𝒅𝒄-𝟎𝟖𝒄𝟒𝟗𝟖𝟏𝒆𝒂𝒇𝟕𝟎.𝒈𝒊𝒇">
-
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symom-hossain-shohan&label=Profile%20views&color=0e75b6&style=flat" alt="symom-hossain-shohan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symom-hossain-shohan" alt="symom-hossain-shohan" /></a> </p>
 
 - 🔭 I’m currently studying in **Computer Science and Engineering at CUET.**
