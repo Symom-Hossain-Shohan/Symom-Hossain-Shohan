@@ -2,13 +2,14 @@
 <h3 align="center">CS Undergrad || Specialist @Codeforces || NLP || Multimodal AI</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symom-hossain-shohan&label=Profile%20views&color=0e75b6&style=flat" alt="symom-hossain-shohan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symom-hossain-shohan" alt="symom-hossain-shohan" /></a> </p>
 
 - 🔭 I’m currently studying in **Computer Science and Engineering at CUET.**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Multimodal LLM.**
 
 - 🤝 I’m looking for help with **Competitive programming, Machine Learning and Deep Learning.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symom-hossain-shohan" alt="symom-hossain-shohan" /></a> </p>
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
